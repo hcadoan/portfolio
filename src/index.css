@@ -51,15 +51,7 @@ a {
   color: #fff;
 }
 
-#root {
-  width: 100%;
-}
-
 body {
-  overflow-x: hidden;
-  overflow-y: scroll;
-  margin: 0;
-  /* min-width: 320px; */
   background: linear-gradient(92deg, var(--background-primary), #0f0f0f, #000f1d, var(--background-primary));
 }
 

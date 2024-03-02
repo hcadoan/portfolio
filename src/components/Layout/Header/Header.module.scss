@@ -2,9 +2,8 @@
   text-decoration: none;
   position: fixed;
   top: 25px;
-  left: 0;
-  right: 0;
-  margin: 0 25px;
+  left: 20px;
+  right: 20px;
   background-color: var(--background-primary);
   padding: 20px 20px;
   border: 1px solid var(--border-color);
@@ -169,10 +168,12 @@
 
 @media (max-width: 739px) {
   .header {
+    width: 100%;
     top: 0;
-    margin: 0;
+    left: 0;
+    right: 0;
     border-radius: 0;
-    overflow: hidden;
+    overflow-x: hidden;
   }
   .hoangca {
     width: 50px;

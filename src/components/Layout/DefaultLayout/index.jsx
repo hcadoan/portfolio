@@ -4,7 +4,7 @@ import Header from '../Header';
 import styles from './DefaultLayout.module.scss';
 import Button from '../Button';
 import Card from '../Card';
-import avatar from '../../../assets/avatar.jpg';
+import avatar from '../../../assets/avatar2.jpg';
 import Social from '../../Social';
 import images from '../../../assets';
 import ProjectItem from '../../ProjectItem';

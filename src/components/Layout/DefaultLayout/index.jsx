@@ -58,7 +58,7 @@ function DefaultLayout() {
       description:
         'Luggage management, allowing adding, deleting and editing - Determine the coordinates of your luggage to prevent theft',
       techs: ['Java', 'XML'],
-      linkCode: 'https://github.com/',
+      linkCode: 'https://github.com/hcadoan/vali_app',
     },
   ];
 
